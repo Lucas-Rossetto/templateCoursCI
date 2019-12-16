@@ -1,20 +1,3 @@
-Skip to content
- 
-Search…
-All gists
-Back to GitHub
-@Lucas-Rossetto 
-@vmonjaret vmonjaret/bug.md Secret
-Created 7 days ago • Report abuse
-0
-0
- Code Revisions 1
-<script src="https://gist.github.com/vmonjaret/25b56c450d1e9e8d88ba3bb70696531b.js"></script>
-  
-Revisions
-@vmonjaret vmonjaret created this gist 7 days ago.
- 37  bug.md 
-@@ -0,0 +1,37 @@
 ---
 name: 🐛 Bug # Markdown syntax for emoji doesn't seems to work
 about: Use this template for bug report.
@@ -52,15 +35,3 @@ assignees: vmonjaret # Can also be a team (ie. octo-org/octo-team)
 * Browser Name and version:
 * Operating System and version (desktop or mobile):
 * Link to your project:
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
